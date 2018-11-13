@@ -11,6 +11,8 @@ TagManager:
   - Rubber
   - BuddyBot
   - HUD
+  - TestCube
+  - dragon
   layers:
   - Default
   - TransparentFX
